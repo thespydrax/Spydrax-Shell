@@ -1060,7 +1060,7 @@ if ($_GET['don'] == true) {
                 <div class="flex items-center justify-between mb-6 md:flex hidden">
                     <div class="flex items-center">
                       <img src="https://i.ibb.co/7dCgpXMw/retouch-2025062619141241.png" alt="Image" width="60" />
-                        <h1 class="text-xl font-bold cyber-font">SPYDRAX<span class="text-blue-400 cyber-glow">v2.0</span></h1>
+                        <h1 class="text-xl font-bold cyber-font">SPYDRAX<span class="text-blue-400 cyber-glow">v3.0</span></h1>
                     </div>
                     <button class="close-sidebar md:hidden text-gray-400 hover:text-white">
                         <i class="fas fa-times"></i>
